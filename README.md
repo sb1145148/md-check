@@ -81,4 +81,4 @@ jobs:
 
 ## 许可
 
-MIT
+代码 MIT（见 [LICENSE](LICENSE)）
